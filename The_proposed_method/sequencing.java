@@ -326,7 +326,7 @@ public static ArrayList<slot> new_sequence_9(Task t, ArrayList<Task> initialtask
 							
 							}
 						}
-//					}	
+	
 					
 					flag = false;
 					
